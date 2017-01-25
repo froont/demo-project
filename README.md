@@ -6,6 +6,8 @@ You can see how the exported page would look on your server right here (in GitHu
 
 By the way, that "**Made with Froont**" badge will not be there in your exported page. It's just there because this is our demo page. So don't be shy, click on it and start hacking on your own Froont page.
 
+![Made with Froont badge](https://drive.google.com/uc?export=view&id=0B_RXuXpXI78nazRIbm4tY0otdGs)
+
 ## Webpage content:
 
 - `/css` folder contains css files for the page
