@@ -4,6 +4,8 @@ This is example of a webpage exported from [Froont](https://froont.com)
 ## Preview:
 You can see how the exported page would look on your server right here (in GitHub pages): https://froont.github.io/demo-project/
 
+By the way, that "**Made with Froont**" badge will not be there in your exported page. It's just there because this is our demo page. So don't be shy, click on it and start hacking on your own Froont page.
+
 ## Webpage content:
 
 - `/css` folder contains css files for the page
