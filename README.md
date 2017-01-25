@@ -1,6 +1,9 @@
 # Froont demo project
 This is example of a webpage exported from [Froont](https://froont.com)
 
+## Preview:
+You can see how the exported page would look on your server right here (in GitHub pages): https://froont.github.io/demo-project/
+
 ## Webpage content:
 
 - `/css` folder contains css files for the page
