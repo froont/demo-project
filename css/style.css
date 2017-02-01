@@ -372,26 +372,6 @@ ol li {
   text-align: center
 }
 
-.fr_text_bright_hero {
-  text-align: center;
-  color: white
-}
-
-.fr_text_bright_hero.fr-text h1 {
-  font-weight: 400;
-  font-size: 3.375rem;
-  color: white
-}
-
-.fr_text_bright_hero.fr-text p {
-  font-size: 1.25rem;
-  color: #f2f2f2
-}
-
-.fr_text_bright_hero.fr-text h2 {
-  color: white
-}
-
 .fr_text_bright_center-1.fr-text p {
   text-align: center;
   color: white
@@ -444,6 +424,26 @@ ol li {
 
 .fr_icon_medium_bright {
   fill: #878686
+}
+
+.fr_text_bright_hero {
+  text-align: center;
+  color: white
+}
+
+.fr_text_bright_hero.fr-text h1 {
+  font-weight: 400;
+  font-size: 3.375rem;
+  color: white
+}
+
+.fr_text_bright_hero.fr-text p {
+  font-size: 1.25rem;
+  color: #f2f2f2
+}
+
+.fr_text_bright_hero.fr-text h2 {
+  color: white
 }
 
 .fr_navigation_bg_2 {
@@ -537,37 +537,6 @@ ol li {
   padding-left: 10px
 }
 
-.fr_container_2 {
-  float: none;
-  display: block;
-  width: 100%;
-  margin-right: auto;
-  margin-left: auto;
-  padding-top: 4rem;
-  background-color: #546bcd;
-  background-image: url(https://images.unsplash.com/photo-1443928281170-6900dc50ac55?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=aa6b1a938bb7755346239b72ceca518f);
-  background-position: center center;
-  background-size: cover
-}
-
-.fr_text_7 {
-  display: block;
-  width: 100%;
-  margin-top: 3rem;
-  margin-right: auto;
-  margin-bottom: 3rem;
-  margin-left: auto;
-  max-width: 520px
-}
-
-.fr_svgwidget {
-  width: 100%;
-  margin-right: auto;
-  margin-left: auto;
-  max-width: 84px;
-  fill: #FFF
-}
-
 .fr_content_container {
   float: none;
   display: block;
@@ -587,26 +556,11 @@ ol li {
   max-width: 820px
 }
 
-.fr_container_4 {
-  float: none;
-  display: block;
-  width: 90%;
-  margin-right: auto;
-  margin-left: auto;
-  max-width: 780px
-}
-
 .fr_group_wrapper {
   width: 90%;
   margin-right: auto;
   margin-left: auto;
   max-width: 780px
-}
-
-.fr_container_5 {
-  margin-right: auto;
-  margin-bottom: 25%;
-  margin-left: auto
 }
 
 .fr_container_screen {
@@ -1851,6 +1805,52 @@ ol li {
   max-height: 64px
 }
 
+.fr_container_2 {
+  float: none;
+  display: block;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 4rem;
+  background-color: #546bcd;
+  background-image: url(https://images.unsplash.com/photo-1443928281170-6900dc50ac55?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=aa6b1a938bb7755346239b72ceca518f);
+  background-position: center center;
+  background-size: cover
+}
+
+.fr_container_4 {
+  float: none;
+  display: block;
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 780px
+}
+
+.fr_container_5 {
+  margin-right: auto;
+  margin-bottom: 25%;
+  margin-left: auto
+}
+
+.fr_text_7 {
+  display: block;
+  width: 100%;
+  margin-top: 3rem;
+  margin-right: auto;
+  margin-bottom: 3rem;
+  margin-left: auto;
+  max-width: 520px
+}
+
+.fr_svgwidget {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 84px;
+  fill: #FFF
+}
+
 .fr_logo_2 .fr-svg-inner {
   padding-bottom: 100.71428571428571%;
   position: relative
@@ -1858,11 +1858,6 @@ ol li {
 
 .fr_hamburger_icon_2 .fr-svg-inner {
   padding-bottom: 84.15300546448087%;
-  position: relative
-}
-
-.fr_svgwidget .fr-svg-inner {
-  padding-bottom: 100.83632019115892%;
   position: relative
 }
 
@@ -1928,6 +1923,11 @@ ol li {
 
 .fr_svg_30 .fr-svg-inner {
   padding-bottom: 100%;
+  position: relative
+}
+
+.fr_svgwidget .fr-svg-inner {
+  padding-bottom: 100.83632019115892%;
   position: relative
 }
 
@@ -2232,14 +2232,14 @@ ol li {
   .fr_pricing_list_item_bg_2 {
     font-size: 1em
   }
-  .fr_text_bright_hero.fr-text h1 {
-    font-size: 2.75rem
-  }
   .fr_text_dark_left-5.fr-text h2 {
     font-size: 1.875rem
   }
   .fr_text_bright_left.fr-text h1 {
     font-size: 2rem
+  }
+  .fr_text_bright_hero.fr-text h1 {
+    font-size: 2.75rem
   }
   .fr_g07_4_column_grid.fr-grid>.fr-widget {
     float: left
